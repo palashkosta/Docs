@@ -4,10 +4,11 @@
 - docker stats
 - docker run -m 512m --cpu-quota 500000
 - docker system df
+- docker search <image-name>
+  - docker search openzipkin
 
 ### Docker Images
 - docker image ls
-- docker image search <image_name>
 - docker image history <id>
 - docker image inspect <id>
 
