@@ -4,6 +4,7 @@
 | ------- | ----- | --- | ------------ | ------- | ----- |
 | Zipkin | Distributed Tracing | AWS X-Ray | | | Splunk |
 | Eureka Naming Server | Solve the problem of service discovery for microservices | ECS (automatically) | | | Hashicorp Consul |
+| Spring Cloud Gateway | | | | | |
 
 
 ### Cross-Service Challenges
