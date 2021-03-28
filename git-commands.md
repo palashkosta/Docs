@@ -1,3 +1,6 @@
+### Initialise repository
+- git init
+
 ### Remote
 - git remote add name remote-url
 - git remote -v 
