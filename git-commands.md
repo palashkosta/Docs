@@ -1,5 +1,9 @@
 ### Initialise repository
 - git init
+- git remote add origin remote-url
+- git add .
+- git commit -m "Initial Commit"
+- git push --set-upstream origin master
 
 ### Remote
 - git remote add <name/origin> remote-url
