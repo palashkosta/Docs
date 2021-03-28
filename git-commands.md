@@ -2,8 +2,8 @@
 - git init
 
 ### Remote
-- git remote add name remote-url
-- git remote -v 
+- git remote add <name/master> remote-url
+- git remote -v #to view the remote urls for fetch and push
 - git remote rm microservices-repo
 
 ### First time pull/push
